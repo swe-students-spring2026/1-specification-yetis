@@ -22,7 +22,7 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Your personal journal for NYC’s best Asian eats - dish by dish, and not just place by place.
 
 ## User Requirements
 
