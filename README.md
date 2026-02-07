@@ -69,12 +69,12 @@ As a Curator, I want to rate individual menu items separately from the restauran
 ![Curator User Story 3 Diagram](./assets/Curator%20story%203.png)
 
 ### Curator User Story 5
-As a Curator, I want to rate individual menu items separately from the restaurant so that I remember specifically what was good and what to avoid next time.
+As a Curator, I want to add additional text notes to my logs so that I can look over them when deciding where to go eat next.
 
 ![Curator User Story 5 Diagram](./assets/Curator%20story%205.png)
 
 ### Curator User Story 6
-As a Curator, I want to rate individual menu items separately from the restaurant so that I remember specifically what was good and what to avoid next time.
+As a Curator, I want to share a direct link to my reviews with friends via text so that I don't have to copy-paste a list every time someone wants to see my reviews.
 
 ![Curator User Story 6 Diagram](./assets/Curator%20story%206.png)
 
