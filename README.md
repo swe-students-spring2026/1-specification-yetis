@@ -6,6 +6,16 @@ A little exercise to get started with the specification phase of the software de
 
 See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
 
+Anish Susarla (<https://github.com/anishs37>)
+
+Rohit Dayanand (<https://github.com/RohitDayanand>)
+
+Ryan Lu (<https://github.com/CHEology>)
+
+Hollan Yuan (<https://github.com/hwyuanzi>)
+
+Jonas Chen (<https://github.com/JonasChenJusFox>)
+
 ## Stakeholders
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
