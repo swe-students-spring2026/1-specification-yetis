@@ -63,26 +63,26 @@ Your personal journal for NYC’s best Asian eats - dish by dish, and not just p
 
 8. As a Traveler, I want to see a chronological history of everywhere I have eaten so that I can retrace my steps and remember the names of the places I visited.
 
-9. As a Traveler, I want to add short, descriptive notes to my reviews so that I can capture the "vibe" or specific memory associated with that meal.
+9. As a Traveler, I want to add additional text notes to my logs so that I can look over them when deciding where to go eat next during my trip.
 
 10. As a Traveler, I want to edit my review if I revisit a spot during my trip and have a different experience (better or worse).
 
 ## Activity Diagrams
 
-### Curator User Story 3
-As a Curator, I want to rate individual menu items separately from the restaurant so that I remember specifically what was good and what to avoid next time.
+### Student User Story 3
+As a Student, I want to rate individual menu items separately from the restaurant so that I remember specifically what to order (and what to avoid) next time I visit.
 
 ![Curator User Story 3 Diagram](./assets/Curator%20story%203.png)
 
-### Curator User Story 5
-As a Curator, I want to add additional text notes to my logs so that I can look over them when deciding where to go eat next.
-
-![Curator User Story 5 Diagram](./assets/Curator%20story%205.png)
-
-### Curator User Story 6
-As a Curator, I want to share a direct link to my reviews with friends via text so that I don't have to copy-paste a list every time someone wants to see my reviews.
+### Student User Story 5
+As a Student, I want to share a direct link to my dish reviews via text so that I can quickly recommend good, affordable spots to friends without copy-pasting lists.
 
 ![Curator User Story 6 Diagram](./assets/Curator%20story%206.png)
+
+### Traveler User Story 9
+As a Traveler, I want to add additional text notes to my logs so that I can look over them when deciding where to go eat next during my trip.
+
+![Curator User Story 5 Diagram](./assets/Curator%20story%205.png)
 
 ## Clickable Prototype
 
