@@ -18,7 +18,7 @@ Ryan Lu (<https://github.com/CHEology>)
 
 ## Stakeholders
 
-### Stakeholder 1: Student
+### Stakeholder 1: Local Student
 **Name:** Vincent Campanaro <br>
 **Demographic:** 3rd year NYU student
 
@@ -49,26 +49,26 @@ Ryan Lu (<https://github.com/CHEology>)
 Your personal journal for NYC’s best Asian eats - dish by dish, and not just place by place.
 
 ## User Requirements
-### User Type 1: Student
-1. As a Student, I want to search for specific dishes (e.g., "Pad See Ew") rather than just restaurant names so that I can find the best version of the foods I already know I love.
+### User Type 1: Local Student
+1. As a Local Student, I want to search for specific dishes (e.g., "Pad See Ew") rather than just restaurant names so that I can find the best version of the foods I already know I love.
 
-2. As a Student, I want to filter restaurants by specific regional cuisines (e.g., "Szechuan" vs. "Chinese") so that I can find distinct flavors and avoid generic options.
+2. As a Local Student, I want to filter restaurants by specific regional cuisines (e.g., "Szechuan" vs. "Chinese") so that I can find distinct flavors and avoid generic options.
 
-3. As a Student, I want to rate individual menu items separately from the restaurant so that I remember specifically what to order (and what to avoid) next time I visit.
+3. As a Local Student, I want to rate individual menu items separately from the restaurant so that I remember specifically what to order (and what to avoid) next time I visit.
 
-4. As a Student, I want to assign a precise "Spice Level" rating to dishes so that I can track my tolerance and identify spots that match my preference.
+4. As a Local Student, I want to assign a precise "Spice Level" rating to dishes so that I can track my tolerance and identify spots that match my preference.
 
-5. As a Student, I want to share a direct link to my dish reviews via text so that I can quickly recommend good, affordable spots to friends without copy-pasting lists.
+5. As a Local Student, I want to share a direct link to my dish reviews via text so that I can quickly recommend good, affordable spots to friends without copy-pasting lists.
 
-6. As a Student, I want to upload photos of my meals attached to specific reviews so that I have a visual log of my dining history.
+6. As a Local Student, I want to upload photos of my meals attached to specific reviews so that I have a visual log of my dining history.
 
-7. As a Student, I want to view a map of highly-rated specific dishes near my campus or dorm so that I can quickly decide where to eat between classes.
+7. As a Local Student, I want to view a map of highly-rated specific dishes near my campus or dorm so that I can quickly decide where to eat between classes.
 
-8. As a Student, I want to add detailed notes to my logs so that I can reference portion sizes or prices when deciding where to go next.
+8. As a Local Student, I want to add detailed notes to my logs so that I can reference portion sizes or prices when deciding where to go next.
 
-9. As a Student, I want to edit my past reviews so that I can update my ratings if a restaurant’s quality or prices change over the semester.
+9. As a Local Student, I want to edit my past reviews so that I can update my ratings if a restaurant’s quality or prices change over the semester.
 
-10. As a Student, I want to save "Favorite Dishes" so that I can build a rotating list of go-to meals.
+10. As a Local Student, I want to save "Favorite Dishes" so that I can build a rotating list of go-to meals.
 
 ### User Type 2: Traveler
 1. As a Traveler, I want to search for specific local dishes so that I can ensure I am trying the "must-have" food of that region, rather than just a popular restaurant.
@@ -93,12 +93,12 @@ Your personal journal for NYC’s best Asian eats - dish by dish, and not just p
 
 ## Activity Diagrams
 
-### Student User Story 3
-As a Student, I want to rate individual menu items separately from the restaurant so that I remember specifically what to order (and what to avoid) next time I visit.
+### Local Student User Story 3
+As a Local Student, I want to rate individual menu items separately from the restaurant so that I remember specifically what to order (and what to avoid) next time I visit.
 
-![Student User Story 3 Diagram](./assets/student_3.png)
+![Local Student User Story 3 Diagram](./assets/student_3.png)
 
-### Student User Story 5
+### Local Student User Story 5
 As a Student, I want to share a direct link to my dish reviews via text so that I can quickly recommend good, affordable spots to friends without copy-pasting lists.
 
 ![Student User Story 5 Diagram](./assets/student_5.png)
