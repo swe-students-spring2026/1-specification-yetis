@@ -101,7 +101,7 @@ As a Local Student, I want to rate individual menu items separately from the res
 ### Local Student User Story 5
 As a Student, I want to share a direct link to my dish reviews via text so that I can quickly recommend good, affordable spots to friends without copy-pasting lists.
 
-![Student User Story 5 Diagram](./assets/student_5.png)
+![Student User Story 5 Diagram](./assets/Student%20User%20Story%205_new.png)
 
 ### Traveler User Story 3
 As a Traveler, I want to view a map of specific, top-rated dishes near my current location so that I can make a high-quality food decision instantly while walking around a new city.
