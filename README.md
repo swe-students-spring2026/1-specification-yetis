@@ -111,6 +111,4 @@ As a Traveler, I want to add additional text notes to my logs so that I can look
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
-
 > 🎨 **[View Interactive Prototype on Figma](https://www.figma.com/proto/TxCtqzuZN76bBpxrFTvxaM/Yetis-Wireframe?node-id=0-1&t=A1NF6etsL7CKmnxG-1)**
